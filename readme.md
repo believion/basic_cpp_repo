@@ -1,5 +1,5 @@
 # this is a git repo
 
-welcome to my git repository
+welcome to our git repo 
 
 ## this is a second header 
